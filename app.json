@@ -1,0 +1,27 @@
+{
+  "expo": {
+    "name": "Smart OA",
+    "slug": "smart-oa-management",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#f5f7fb"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.smartoa.management"
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "3ccc50ee-c2cf-4773-9470-199a5df5d51b"
+      }
+    }
+  }
+}
