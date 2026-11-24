@@ -1,0 +1,1035 @@
+{
+  "students": [
+    {
+      "id": "stu001",
+      "name": "Aarav Sharma",
+      "roll_number": "23CSE001",
+      "email": "23cse001@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu002",
+      "name": "Aditi Sharma",
+      "roll_number": "23CSE002",
+      "email": "23cse002@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu003",
+      "name": "Akash Sharma",
+      "roll_number": "23CSE003",
+      "email": "23cse003@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu004",
+      "name": "Ananya Sharma",
+      "roll_number": "23CSE004",
+      "email": "23cse004@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu005",
+      "name": "Arjun Sharma",
+      "roll_number": "23CSE005",
+      "email": "23cse005@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu006",
+      "name": "Avni Sharma",
+      "roll_number": "23CSE006",
+      "email": "23cse006@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu007",
+      "name": "Dev Sharma",
+      "roll_number": "23CSE007",
+      "email": "23cse007@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu008",
+      "name": "Diya Sharma",
+      "roll_number": "23CSE008",
+      "email": "23cse008@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu009",
+      "name": "Ishaan Sharma",
+      "roll_number": "23CSE009",
+      "email": "23cse009@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu010",
+      "name": "Isha Sharma",
+      "roll_number": "23CSE010",
+      "email": "23cse010@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu011",
+      "name": "Kabir Sharma",
+      "roll_number": "23CSE011",
+      "email": "23cse011@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu012",
+      "name": "Kavya Sharma",
+      "roll_number": "23CSE012",
+      "email": "23cse012@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu013",
+      "name": "Krishna Sharma",
+      "roll_number": "23CSE013",
+      "email": "23cse013@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu014",
+      "name": "Meera Sharma",
+      "roll_number": "23CSE014",
+      "email": "23cse014@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu015",
+      "name": "Neha Sharma",
+      "roll_number": "23CSE015",
+      "email": "23cse015@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu016",
+      "name": "Nikhil Sharma",
+      "roll_number": "23CSE016",
+      "email": "23cse016@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu017",
+      "name": "Priya Sharma",
+      "roll_number": "23CSE017",
+      "email": "23cse017@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu018",
+      "name": "Rahul Sharma",
+      "roll_number": "23CSE018",
+      "email": "23cse018@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu019",
+      "name": "Riya Sharma",
+      "roll_number": "23CSE019",
+      "email": "23cse019@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu020",
+      "name": "Rohan Sharma",
+      "roll_number": "23CSE020",
+      "email": "23cse020@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu021",
+      "name": "Sanya Sharma",
+      "roll_number": "23CSE021",
+      "email": "23cse021@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu022",
+      "name": "Shivam Sharma",
+      "roll_number": "23CSE022",
+      "email": "23cse022@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu023",
+      "name": "Sneha Sharma",
+      "roll_number": "23CSE023",
+      "email": "23cse023@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu024",
+      "name": "Tanish Sharma",
+      "roll_number": "23CSE024",
+      "email": "23cse024@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu025",
+      "name": "Tanvi Sharma",
+      "roll_number": "23CSE025",
+      "email": "23cse025@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu026",
+      "name": "Varun Sharma",
+      "roll_number": "23CSE026",
+      "email": "23cse026@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu027",
+      "name": "Aarav Verma",
+      "roll_number": "23CSE027",
+      "email": "23cse027@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu028",
+      "name": "Aditi Verma",
+      "roll_number": "23CSE028",
+      "email": "23cse028@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu029",
+      "name": "Akash Verma",
+      "roll_number": "23CSE029",
+      "email": "23cse029@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu030",
+      "name": "Ananya Verma",
+      "roll_number": "23CSE030",
+      "email": "23cse030@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu031",
+      "name": "Arjun Verma",
+      "roll_number": "23CSE031",
+      "email": "23cse031@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu032",
+      "name": "Avni Verma",
+      "roll_number": "23CSE032",
+      "email": "23cse032@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu033",
+      "name": "Dev Verma",
+      "roll_number": "23CSE033",
+      "email": "23cse033@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu034",
+      "name": "Diya Verma",
+      "roll_number": "23CSE034",
+      "email": "23cse034@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu035",
+      "name": "Ishaan Verma",
+      "roll_number": "23CSE035",
+      "email": "23cse035@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu036",
+      "name": "Isha Verma",
+      "roll_number": "23CSE036",
+      "email": "23cse036@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu037",
+      "name": "Kabir Verma",
+      "roll_number": "23CSE037",
+      "email": "23cse037@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu038",
+      "name": "Kavya Verma",
+      "roll_number": "23CSE038",
+      "email": "23cse038@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu039",
+      "name": "Krishna Verma",
+      "roll_number": "23CSE039",
+      "email": "23cse039@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu040",
+      "name": "Meera Verma",
+      "roll_number": "23CSE040",
+      "email": "23cse040@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu041",
+      "name": "Neha Verma",
+      "roll_number": "23CSE041",
+      "email": "23cse041@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu042",
+      "name": "Nikhil Verma",
+      "roll_number": "23CSE042",
+      "email": "23cse042@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu043",
+      "name": "Priya Verma",
+      "roll_number": "23CSE043",
+      "email": "23cse043@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu044",
+      "name": "Rahul Verma",
+      "roll_number": "23CSE044",
+      "email": "23cse044@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu045",
+      "name": "Riya Verma",
+      "roll_number": "23CSE045",
+      "email": "23cse045@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu046",
+      "name": "Rohan Verma",
+      "roll_number": "23CSE046",
+      "email": "23cse046@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu047",
+      "name": "Sanya Verma",
+      "roll_number": "23CSE047",
+      "email": "23cse047@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu048",
+      "name": "Shivam Verma",
+      "roll_number": "23CSE048",
+      "email": "23cse048@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu049",
+      "name": "Sneha Verma",
+      "roll_number": "23CSE049",
+      "email": "23cse049@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu050",
+      "name": "Tanish Verma",
+      "roll_number": "23CSE050",
+      "email": "23cse050@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu051",
+      "name": "Tanvi Verma",
+      "roll_number": "23CSE051",
+      "email": "23cse051@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu052",
+      "name": "Varun Verma",
+      "roll_number": "23CSE052",
+      "email": "23cse052@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu053",
+      "name": "Aarav Gupta",
+      "roll_number": "23CSE053",
+      "email": "23cse053@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu054",
+      "name": "Aditi Gupta",
+      "roll_number": "23CSE054",
+      "email": "23cse054@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu055",
+      "name": "Akash Gupta",
+      "roll_number": "23CSE055",
+      "email": "23cse055@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu056",
+      "name": "Ananya Gupta",
+      "roll_number": "23CSE056",
+      "email": "23cse056@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu057",
+      "name": "Arjun Gupta",
+      "roll_number": "23CSE057",
+      "email": "23cse057@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu058",
+      "name": "Avni Gupta",
+      "roll_number": "23CSE058",
+      "email": "23cse058@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu059",
+      "name": "Dev Gupta",
+      "roll_number": "23CSE059",
+      "email": "23cse059@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu060",
+      "name": "Diya Gupta",
+      "roll_number": "23CSE060",
+      "email": "23cse060@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu061",
+      "name": "Ishaan Gupta",
+      "roll_number": "23CSE061",
+      "email": "23cse061@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu062",
+      "name": "Isha Gupta",
+      "roll_number": "23CSE062",
+      "email": "23cse062@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu063",
+      "name": "Kabir Gupta",
+      "roll_number": "23CSE063",
+      "email": "23cse063@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu064",
+      "name": "Kavya Gupta",
+      "roll_number": "23CSE064",
+      "email": "23cse064@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu065",
+      "name": "Krishna Gupta",
+      "roll_number": "23CSE065",
+      "email": "23cse065@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu066",
+      "name": "Meera Gupta",
+      "roll_number": "23CSE066",
+      "email": "23cse066@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu067",
+      "name": "Neha Gupta",
+      "roll_number": "23CSE067",
+      "email": "23cse067@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu068",
+      "name": "Nikhil Gupta",
+      "roll_number": "23CSE068",
+      "email": "23cse068@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu069",
+      "name": "Priya Gupta",
+      "roll_number": "23CSE069",
+      "email": "23cse069@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu070",
+      "name": "Rahul Gupta",
+      "roll_number": "23CSE070",
+      "email": "23cse070@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu071",
+      "name": "Riya Gupta",
+      "roll_number": "23CSE071",
+      "email": "23cse071@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu072",
+      "name": "Rohan Gupta",
+      "roll_number": "23CSE072",
+      "email": "23cse072@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu073",
+      "name": "Sanya Gupta",
+      "roll_number": "23CSE073",
+      "email": "23cse073@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu074",
+      "name": "Shivam Gupta",
+      "roll_number": "23CSE074",
+      "email": "23cse074@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu075",
+      "name": "Sneha Gupta",
+      "roll_number": "23CSE075",
+      "email": "23cse075@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu076",
+      "name": "Tanish Gupta",
+      "roll_number": "23CSE076",
+      "email": "23cse076@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu077",
+      "name": "Tanvi Gupta",
+      "roll_number": "23CSE077",
+      "email": "23cse077@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu078",
+      "name": "Varun Gupta",
+      "roll_number": "23CSE078",
+      "email": "23cse078@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu079",
+      "name": "Aarav Singh",
+      "roll_number": "23CSE079",
+      "email": "23cse079@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu080",
+      "name": "Aditi Singh",
+      "roll_number": "23CSE080",
+      "email": "23cse080@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu081",
+      "name": "Akash Singh",
+      "roll_number": "23CSE081",
+      "email": "23cse081@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu082",
+      "name": "Ananya Singh",
+      "roll_number": "23CSE082",
+      "email": "23cse082@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu083",
+      "name": "Arjun Singh",
+      "roll_number": "23CSE083",
+      "email": "23cse083@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu084",
+      "name": "Avni Singh",
+      "roll_number": "23CSE084",
+      "email": "23cse084@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu085",
+      "name": "Dev Singh",
+      "roll_number": "23CSE085",
+      "email": "23cse085@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu086",
+      "name": "Diya Singh",
+      "roll_number": "23CSE086",
+      "email": "23cse086@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu087",
+      "name": "Ishaan Singh",
+      "roll_number": "23CSE087",
+      "email": "23cse087@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu088",
+      "name": "Isha Singh",
+      "roll_number": "23CSE088",
+      "email": "23cse088@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu089",
+      "name": "Kabir Singh",
+      "roll_number": "23CSE089",
+      "email": "23cse089@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu090",
+      "name": "Kavya Singh",
+      "roll_number": "23CSE090",
+      "email": "23cse090@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu091",
+      "name": "Krishna Singh",
+      "roll_number": "23CSE091",
+      "email": "23cse091@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu092",
+      "name": "Meera Singh",
+      "roll_number": "23CSE092",
+      "email": "23cse092@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu093",
+      "name": "Neha Singh",
+      "roll_number": "23CSE093",
+      "email": "23cse093@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu094",
+      "name": "Nikhil Singh",
+      "roll_number": "23CSE094",
+      "email": "23cse094@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu095",
+      "name": "Priya Singh",
+      "roll_number": "23CSE095",
+      "email": "23cse095@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu096",
+      "name": "Rahul Singh",
+      "roll_number": "23CSE096",
+      "email": "23cse096@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu097",
+      "name": "Riya Singh",
+      "roll_number": "23CSE097",
+      "email": "23cse097@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu098",
+      "name": "Rohan Singh",
+      "roll_number": "23CSE098",
+      "email": "23cse098@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu099",
+      "name": "Sanya Singh",
+      "roll_number": "23CSE099",
+      "email": "23cse099@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    },
+    {
+      "id": "stu100",
+      "name": "Shivam Singh",
+      "roll_number": "23CSE100",
+      "email": "23cse100@college.edu",
+      "department": "CSE",
+      "semester": 5,
+      "status": "approved",
+      "password": "student123"
+    }
+  ],
+  "pendingStudents": [],
+  "rooms": [
+    {
+      "id": "room1",
+      "name": "CSE Lab 204",
+      "capacity": 40
+    },
+    {
+      "id": "room2",
+      "name": "CSE Lab 205",
+      "capacity": 35
+    },
+    {
+      "id": "room3",
+      "name": "CSE Room 301",
+      "capacity": 50
+    }
+  ],
+  "exams": [
+    {
+      "id": "exam1",
+      "title": "Python Programming OA",
+      "subject": "Python Programming",
+      "date": "2026-12-05",
+      "time": "10:00 AM",
+      "roomId": "room1",
+      "roomName": "CSE Lab 204",
+      "status": "Scheduled"
+    }
+  ],
+  "complaints": []
+}
